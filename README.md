@@ -11,7 +11,7 @@
 
 - 😄 Pronouns: She|Her Ela|Dela
 
-- ⚡ curiosidades: **leitura, séries, principalmente as relacionadas a cultura asiática, adoro qualquer coisa nerd e geek e pandinhas fofos 😍**
+- ⚡ curiosidades: **leitura, RPG, séries, principalmente as relacionadas a cultura asiática, adoro qualquer coisa nerd e geek e pandinhas fofos 😍**
 
 <p> <img src="transparent-bg-+-shadow-designifyOctoCat_thais.png" alt"octocat Thais" align="center" /> </p>
 
