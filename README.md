@@ -11,7 +11,7 @@
 
 - 😄 Pronouns: She|Her Ela|Dela
 
-- ⚡ curiosidades: **leitura, séries, principalmente as relacionadas a cultura asiática, adoro qualquer coisa nerd e geek e pandinhas fofos *_***
+- ⚡ curiosidades: **leitura, séries, principalmente as relacionadas a cultura asiática, adoro qualquer coisa nerd e geek e pandinhas fofos 😍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
