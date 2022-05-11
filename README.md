@@ -13,8 +13,8 @@
 
 - ⚡ curiosidades: **leitura, RPG, séries, principalmente as relacionadas a cultura asiática, adoro qualquer coisa nerd e geek e pandinhas fofos 😍**
 
-<p> <img src="OctoCat_blackMode_transp_Bg.png#gh-dark-mode-only" alt"octocat Thais Dark Mode" align="center" /> </p>
-<p> <img src="OctoCat_blackMode_transp_Bg.png#gh-light-mode-only" alt"octocat Thais Light Mode" align="center" /> </p>
+<p> <img src="OctoCat-thais.png#gh-light-mode-only" alt"octocat Thais Dark Mode" align="center" /> </p>
+<p> <img src="OctoCat-thais-dark-mode.png#gh-dark-mode-only" alt"octocat Thais Light Mode" align="center" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
