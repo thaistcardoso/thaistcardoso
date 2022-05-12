@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Thais Cardoso</h1>
+<h1 align="center">Hi 👋, I'm Thais Tauane Cardoso</h1>
 <h3 align="center">Estudante de Desenvolvimento Web Full Stack na Trybe</h3>
 
 - 🌱 I’m currently learning **Docker | MySQL | Node.js**
