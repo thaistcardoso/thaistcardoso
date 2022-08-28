@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Docker | MySQL | Node.js | Typescript**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis na[em criação](em criação)
+- 👨‍💻 Todos os meus projetos estão disponíveis na[em criação](em criação), os repositórios você encontra pinados aqui.
 
 - 📫 Como me encontrar **thaistauane.cardoso@gmail.com**
 
