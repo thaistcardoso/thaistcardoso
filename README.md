@@ -3,7 +3,7 @@
 <h1 align="center"> Olá! 👋, sou Thais Tauane Cardoso</h1>
 <h3 align="center">Estudante de Desenvolvimento Web Full Stack na Trybe</h3>
 
-- 🌱 Atualmente estou aprendendo **Docker | MySQL | Node.js | Typescript**
+- 🌱 Atualmente estou aprendendo **Docker | MySQL | Node.js | Typescript | MongoDB**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis na[em criação](em criação), os repositórios você encontra pinados aqui.
 
