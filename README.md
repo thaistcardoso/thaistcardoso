@@ -56,8 +56,9 @@ height="50"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> 
 
-<h4 align="left">Front End</h4>
 ******
+
+<h4 align="left">Front End</h4>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
@@ -93,16 +94,14 @@ height="50"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/> </a>
 
+</p> <br>
+
+<p align="center">
+<img align="center" backgroundcolor="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaistcardoso&show_icons=true&theme=dracula&locale=en&layout=compact" alt="thaistcardoso" width="28%" />
 </p>
 
-<p>
-<img align="center" backgroundcolor="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaistcardoso&show_icons=true&theme=dracula&locale=en&layout=compact" alt="thaistcardoso" />
-</p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thaistcardoso&show_icons=true&theme=dracula&locale=en" alt="thaistcardoso" width="35%" />
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thaistcardoso&show_icons=true&theme=dracula&locale=en" alt="thaistcardoso" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thaistcardoso&theme=dracula" alt="thaistcardoso" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thaistcardoso&theme=dracula" alt="thaistcardoso" width="35%" />
 </p>
