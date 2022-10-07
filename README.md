@@ -25,6 +25,8 @@
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaistcardoso&show_icons=true&theme=dracula&locale=en" alt="thaistcardoso" width="35%" />
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thaistcardoso&theme=dracula" alt="thaistcardoso" width="35%" />
 </p>
 
 <br>
