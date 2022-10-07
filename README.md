@@ -14,8 +14,8 @@
 - ⚡ curiosidades: **leitura, RPG, séries, principalmente as relacionadas a cultura asiática, adoro qualquer coisa nerd e geek e pandinhas fofos 😍**
 <br>
 
-<p align=center> <img src="OctoCat-thais.png#gh-light-mode-only" alt"octocat Thais Dark Mode" align="center" /> </p>
-<p align=center> <img src="OctoCat-thais-dark-mode.png#gh-dark-mode-only" alt"octocat Thais Light Mode" align="center" /> </p>
+<p align=center> <img src="OctoCat-thais.png#gh-light-mode-only" alt"octocat Thais Dark Mode" align="left" width="400"/> </p>
+<p align=center> <img src="OctoCat-thais-dark-mode.png#gh-dark-mode-only" alt"octocat Thais Light Mode" align="left" width="400" /> </p>
 
 <h3 align="center">Conecte-se comigo</h3>
 
@@ -27,6 +27,15 @@
 </p>
 <br>
 
+<p align="center">
+<img align="center" backgroundcolor="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaistcardoso&show_icons=true&theme=dracula&locale=en&layout=compact" alt="thaistcardoso" width="28%" />
+</p>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thaistcardoso&show_icons=true&theme=dracula&locale=en" alt="thaistcardoso" width="35%" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thaistcardoso&theme=dracula" alt="thaistcardoso" width="35%" />
+</p>
 ******
 
 <h3 align="center">Linguagens e Ferramentas</h3>
@@ -95,13 +104,3 @@ height="50"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/> </a>
 
 </p> <br>
-
-<p align="center">
-<img align="center" backgroundcolor="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaistcardoso&show_icons=true&theme=dracula&locale=en&layout=compact" alt="thaistcardoso" width="28%" />
-</p>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thaistcardoso&show_icons=true&theme=dracula&locale=en" alt="thaistcardoso" width="35%" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thaistcardoso&theme=dracula" alt="thaistcardoso" width="35%" />
-</p>
