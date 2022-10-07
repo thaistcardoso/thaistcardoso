@@ -17,20 +17,14 @@
 <p align=center> <img src="OctoCat-thais.png#gh-light-mode-only" alt"octocat Thais Dark Mode" align="left" width="400"/> </p>
 <p align=center> <img src="OctoCat-thais-dark-mode.png#gh-dark-mode-only" alt"octocat Thais Light Mode" align="left" width="400" /> </p>
 
-
-
 <p align="center">
-<img align="center" backgroundcolor="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaistcardoso&show_icons=true&theme=dracula&locale=en&layout=compact" alt="thaistcardoso" width="28%" />
+<img align="center" backgroundcolor="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaistcardoso&show_icons=true&theme=dracula&locale=en&layout=compact" alt="thaistcardoso" width="26%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thaistcardoso&show_icons=true&theme=dracula&locale=en" alt="thaistcardoso" width="31%" />
 </p>
-
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thaistcardoso&show_icons=true&theme=dracula&locale=en" alt="thaistcardoso" width="35%" />
-<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thaistcardoso&theme=dracula" alt="thaistcardoso" width="35%" />
 </p>
-
 <br>
-
 <h3 align="center">Conecte-se comigo</h3>
 
 <p align="center">
@@ -39,6 +33,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/thaist-cardoso/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thaist-cardoso/" height="30" width="40" />
 </a>
 </p>
+<br>
 <br>
 
 ******
