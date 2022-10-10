@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Olá! 👋, sou Thais!</h1>
+<h1 align="center"> Olá! 👋, me chamo Thais!</h1>
 <h3 align="center">Desenvolvedora Web Full Stack</h3>
 
 - 🌱 Atualmente estou aprendendo **Python | Raspagem de Dados**
